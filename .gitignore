@@ -124,3 +124,5 @@ docker-compose.override.yml
 # ------------------------
 .pyre/
 .python-version
+
+taskenv/
